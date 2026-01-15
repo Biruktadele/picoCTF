@@ -1,0 +1,50 @@
+{
+  // ===== THEME =====
+//   "workbench.colorTheme": "Default Dark+",
+  "workbench.iconTheme": "material-icon-theme",
+
+  // ===== EDITOR LOOK =====
+  "editor.fontFamily": "JetBrains Mono, Fira Code, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.renderLineHighlight": "all",
+  "editor.minimap.enabled": false,
+
+  // ===== CONTRAST & READABILITY =====
+  "editor.semanticHighlighting.enabled": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.indentation": true,
+  "editor.wordWrap": "on",
+
+  // ===== PYTHON SETTINGS =====
+  "python.defaultInterpreterPath": "python",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "python.formatting.provider": "black",
+
+  // ===== FORMAT ON SAVE =====
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+
+  // ===== FILE & UI =====
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "workbench.startupEditor": "none",
+
+  // ===== TERMINAL =====
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.cursorBlinking": true,
+
+  // ===== SMOOTH EXPERIENCE =====
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.pythonProjects": []
+}
