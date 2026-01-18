@@ -1,0 +1,1 @@
+{"name":"Local: block_chain","url":"/home/biruk/Hack/picoCTF/Reverse_Engineering/Tap_into_Hash/block_chain.py","tests":[{"id":1768581123281,"input":"1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/biruk/Hack/picoCTF/Reverse_Engineering/Tap_into_Hash/block_chain.py","group":"local","local":true}
