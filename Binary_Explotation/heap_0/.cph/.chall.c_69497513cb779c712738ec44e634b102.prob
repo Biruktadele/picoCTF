@@ -1,0 +1,1 @@
+{"name":"Local: chall","url":"/home/biruk/Hack/picoCTF/Binary_Explotation/heap_0/chall.c","tests":[{"id":1768911556376,"input":"1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/biruk/Hack/picoCTF/Binary_Explotation/heap_0/chall.c","group":"local","local":true}
