@@ -1,0 +1,34 @@
+/mnt/p1/bin/piconv:# $Id: piconv,v 2.8 2016/08/04 03:15:58 dankogai Exp $
+/mnt/p1/bin/piconv:piconv -- iconv(1), reinvented in perl
+/mnt/p1/bin/piconv:  piconv [-f from_encoding] [-t to_encoding]
+/mnt/p1/bin/piconv:  piconv -l
+/mnt/p1/bin/piconv:  piconv -r encoding_alias
+/mnt/p1/bin/piconv:  piconv -h
+/mnt/p1/bin/piconv:B<piconv> is perl version of B<iconv>, a character encoding converter
+/mnt/p1/bin/piconv:a technology demonstrator for Perl 5.8.0, but you can use piconv in the
+/mnt/p1/bin/piconv:piconv converts the character encoding of either STDIN or files
+/mnt/p1/bin/piconv:Therefore, when both -f and -t are omitted, B<piconv> just acts
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_description-es.UTF-8: No se pudo cargar el módulo ${MODULE}. Puede que tenga que introducir parámetros al módulo para que fupicoCTF{4_P4Rt_1t_i5_a303acb9} caso de hardware antiguo. Estos parámetros se refieren con frecuencia al puerto de entrada/salida (IO) y números de petición de interrupción (IRQ) que pueden variar entre máquinas y no se puede determinar a partir del hardware. Un ejemplo de estos parámetros sería: «irq=7 io=0x220»\n\nConsulte la documentación si no sabe qué escribir o déjelo en blanco para que no se cargue el módulo.
+/mnt/p2/log/installer/cdebconf/templates.dat:Choices-fi.UTF-8: amerikanenglantilainen, Albania, Arabia, Asturialainen, Bangladesh, valkovenäläinen, Bengali, belgialainen, Berber (latina), bosnialainen, brasilialainen, brittienglantilainen, bulgarialainen (BDS-asettelu), bulgarialainen (foneetinen-asettelu), burmalainen, kanadanranskalainen, Kanadan monikielinen, katalaani, kiinalainen, kroatialainen, tsekkiläinen, tanskalainen, hollantilainen, Dvorak, Dzongkha, Esperanto, virolainen, etpicoCTF{4_P4Rt_1t_i5_b9ac33a0}kalainen, Georgia, saksalainen, kreikkalainen, Gujarati, Gurmukhi, heprealainen, Hindi, unkarilainen, islantilainen, irlantilainen, italialainen, japanilainen, Kannada, Kazakki, Khmer, kirgiisi, korealainen, Kurdi (F-asettelu), Kurdi (Q-asettelu), Lao, latinalais-amerikkalainen, latvianlainen, liettualainen, makedonialainen, malajalam, Nepali, pohjois-saame, norjalainen, persialainen, Filippiinit, puolalainen, portugalilainen, punjabi, romanialainen, venäläinen, serbialainen (kyrillinen), sindhi, sinhala, slovakialainen, slovenialainen, espanjalainen, ruotsalainen, sveitsinranskalainen, sveitsinsaksalainen, Tajikl, tamili, telugu, thai, tiibettiläinen, turkkilainen (F-asettelu), turkkilainen (Q-asettelu), ukrainalainen, uiguuri, vietnamilainen
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_description-sr.UTF-8: Тренутно подешени мрежни параметри:\n\n интерфејс     = ${interface}\n IP адреса     = ${ipaddress}\n мрежна маска       = ${netmask}\n мрежни пролаз       = ${gateway}\n PPP   = ${pointopoint}\n DNS сервери   picoCTF{4_P4Rt_1t_i5_0aac93b3}v.UTF-8: Är den här informationen korrekt?
+/mnt/p2/log/installer/cdebconf/templates.dat:Description-vi.UTF-8: Việc này cpicoCTF{4_P4Rt_1t_i5_baac0933}i gian.
+/mnt/p2/log/installer/cdebconf/templates.dat:Description-gl.UTF-8: Uso típico desta partición:
+/mnt/p2/log/installer/cdebconf/templates.dat:Description-it.UTF-8: Utilizzo tipico di questa partizione:
+/mnt/p2/log/installer/cdebconf/templates.dat:Description-pt_BR.UTF-8: Uso típico desta partição:
+/mnt/p2/log/installer/cdebconf/templates.dat:Description-it.UTF-8: Utilizzo tipico:
+/mnt/p2/log/installer/cdebconf/templates.dat:Description-pt_BR.UTF-8: Uso típico:
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_description-mk.UTF-8:picoCTF{4_P4Rt_1t_i5_033c9baa}артиции за енкрипција.
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_description-ko.UTF-8: ${DEVICE} 장치를 암호화 하는데 쓸 암호문을 입력하십시오.\n\n이 암호문에 따라 전체 암호화가 얼마나 안전한 지 크게 좌우됩니다. 쉽게 추측할 수 없는 암호문을 사용하도록 하십시오. 사전에서 있는 단어picoCTF{4_P4Rt_1t_i5_3cab93a0}고, 본인 신상 정보와 관계 있는 문구를 사용해서도 안 됩니다.\n\n암호문에는 문자나 숫자, 기타 기호를 섞어서 쓰는 게 좋습니다. 암호문 길이는 최소 20자 이상을 추천합니다.
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_despicoCTF{4_P4Rt_1t_i5_a093ba3c}меню дазваляе наладзіць тамы iSCSI.
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_description-mk.UTF-8: Одбраниот уред веќе ги содржpicoCTF{4_P4Rt_1t_i5_3c9b3a0a}ички простори, групи и физички уреди кое ќе се отстранат:\n\nЛогички простори што ќе се отстранат: ${LVTARGETS}\n\nПросторни групи што ќе се остранат: ${VGTARGETS}\n\nФизичките уреди што ќе се отстранат: ${PVTARGETS}\n\nИмајте на ум дека ова исто така ќе ги избрише сите податоци што се моментално на логичките простори.
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_description-nl.UTF-8: De geselecteerde volumegroepnaam is reeds in gebruik. U dient een andere napicoCTF{4_P4Rt_1t_i5_0c3baa93}TF-8: Eit anna gruppert dataområde brukar namnet
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_description-cs.UTF-8: VybpicoCTF{4_P4Rt_1t_i5_c0933aab}pinu svazků.\n\nMůžete vybrat jedno nebo více zařízení.
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_description-fr.UTF-8: Avant de configurer les périphériques RAID, les modifications doivent être appliquées aux disques. Ces modifications sont irréversibles.\n\nLors de la configuration des périphériques RAID, aucune modification des partitions n'est autorisée spicoCTF{4_P4Rt_1t_i5_a9ca3b03} les volumes physiques. Veuillez vous assurer que le partitionnement actuel de ces disques vous convient.\n\n${ITEMS}
+/mnt/p2/log/installer/cdebconf/templates.dat:Extended_description-sq.UTF-8: Të lutem sigurohu para se të vazhdosh, që filesistemi ku dëshiron të ruash regjistrimet është i picoCTF{4_P4Rt_1t_i5_b3a039ca} Директоријум у коме желите да сачувате дебаг логове:
+/mnt/p2/log/installer/partman:parted_server: Closing inpicoCTF{4_P4Rt_1t_i5_0ca93ab3}: main_loop: iteration 31
+/mnt/p2/log/installer/syslog:Aug 30 01:56:45 kerpicoCTF{4_P4Rt_1t_i5_03bac9a3}00:03: resource 2 [mem 0xe7a00000-0xe7afffff 64bit pref]
+/mnt/p2/log/installer/syslog:Aug 30 01:59:37 debootstrap: update-alternatives: using /bin/nano to provide /usr/bin/pico (pico) in auto mode
+/mnt/p2/log/installer/syslog:Aug 30 02:00:42 in-target:   mailx | mailutils snmptrapd libttspico-utils espeak mbrola
+/mnt/p2/log/installer/syslog:Aug 30 02:00:49 in-target: Get:695 cdrom://[Kali GNU/Linux 2022.3rc2 _Kali-last-snapshot_ - Official amd64 BD Binary-1 with firmware 20220804-16:57] kali-rolling/main amd64 libruby3.0picoCTF{4_P4Rt_1t_i5_a93a30cb}ug 30 02:00:49 in-target: Get:696 cdrom://[Kali GNU/Linux 2022.3rc2 _Kali-last-snapshot_ - Official amd64 BD Binary-1 with firmware 20220804-16:57] kali-rolling/main amd64 ruby3.0 amd64 3.0.4-7+b1 [683 kB]
+/mnt/p2/log/installer/syslog:Aug 30 02:03:40 in-target: Selecting previopicoCTF{4_P4Rt_1t_i5_aba393c0}3-nplusone.^M
+/mnt/p2/log/daemon.log:Aug 29 22:1picoCTF{4_P4Rt_1t_i5_3b0aca39} <info>  [1661825835.4061] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
